@@ -68,7 +68,7 @@ li a:hover {
 main {
     width: 80%;
     margin: auto;
-    font-family: "OPTIMA";
+    font-family: "Optima";
     padding-top: 118px;
 }
 
@@ -104,6 +104,6 @@ main {
 /* Mobile */
 @media only screen and (max-width: 540px) {
     .logo {
-		max-width: 150px;
+		max-width: 100px;
 	}
 }
