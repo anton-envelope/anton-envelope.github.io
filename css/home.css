@@ -104,6 +104,6 @@ main {
 /* Mobile */
 @media only screen and (max-width: 540px) {
     .logo {
-		max-width: 200px;
+		max-width: 150px;
 	}
 }
