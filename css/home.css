@@ -106,6 +106,6 @@ main {
 and (min-device-width : 375px)
 and (max-device-width : 667px) {
 	.logo {
-		max-width: 150px;
+		max-width: 200px;
 	}
 }
