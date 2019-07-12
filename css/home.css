@@ -1,4 +1,4 @@
-@font-face{ 
+@font-face{
 	font-family: 'Optima';
 	src: url('../fonts/optima-webfont.eot');
 	src: url('../fonts/optima-webfont.eot?#iefix') format('embedded-opentype'),
@@ -81,7 +81,7 @@ main {
     text-align: center;
 }
 
-.covertitle {  
+.covertitle {
     font-size: 64px;
     opacity: 0;
 }
@@ -101,11 +101,9 @@ main {
     padding-bottom: 100px;
 }
 
-/* iPhone X */
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 812px)
-and (-webkit-device-pixel-ratio : 3) {
-    /* STYLES GO HERE */
-    /* STYLES GO HERE */
+/* Mobile */
+@media only screen and (max-width: 540px) {
+    .logo {
+		max-width: 200px;
+	}
 }
