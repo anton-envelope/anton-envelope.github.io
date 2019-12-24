@@ -97,6 +97,11 @@ main {
     font-size: 18px;
 }
 
+.hourscontainer {
+		float: left;
+		width: 50%;
+}
+
 #link {
     text-decoration: none;
 }
