@@ -86,21 +86,28 @@ main {
 }
 
 .infocontainer {
+		padding-top: 10px;
     width: 40%;
     float: right;
 }
 
 .textcontainer {
-    padding-top: 75px;
+		padding-bottom: 30px;
     width: 60%;
     margin: auto;
     font-size: 18px;
 }
 
+.dayscontainer {
+	float: left;
+	width: 40%;
+	padding-bottom: 30px;
+}
+
 .hourscontainer {
 		float: left;
-		width: 50%;
-		padding-bottom: 20px;
+		width: 60%;
+		padding-bottom: 30px;
 }
 
 #link {
